@@ -1,2 +1,2 @@
 # project.demo
-this is demo of Project
+this is demo of Project.
